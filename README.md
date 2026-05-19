@@ -11,7 +11,7 @@
 - 📱 Android Developer — Kotlin, Firebase, SQLite, Jetpack
 - 🌐 Backend Explorer — FastAPI, PostgreSQL, Redis, Docker
 - 🧪 Loves experimenting with ideas and turning them into real tools
-- 🧠 Believer in "Learning by Building" — code > tutorial
+- 🧠 Believer in "Learning by Building" , code > tutorial
 
 ---
 

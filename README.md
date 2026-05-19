@@ -58,7 +58,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshkumartomar/)
-- 💻 [LeetCode](https://leetcode.com/GhostInPixels) 
+- 💻 [LeetCode](https://leetcode.com/harshkumartomar) 
 
 
 ---
